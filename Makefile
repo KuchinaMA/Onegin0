@@ -1,30 +1,22 @@
 CC = g++
-CFLAGS = -c -Wshadow -Winit-self -Wredundant-decls -Wcast-align -Wundef -Wfloat-equal\
+CFLAGS = -Wshadow -Winit-self -Wredundant-decls -Wcast-align -Wundef -Wfloat-equal\
 -Winline -Wunreachable-code -Wmissing-declarations -Wmissing-include-dirs -Wswitch-enum\
 -Wswitch-default -Weffc++ -Wmain -Wextra -Wall -g -pipe -fexceptions -Wcast-qual -Wconversion -Wctor-dtor-privacy\
 -Wempty-body -Wformat-security -Wformat=2 -Wignored-qualifiers -Wlogical-op -Wno-missing-field-initializers\
 -Wnon-virtual-dtor -Woverloaded-virtual -Wpointer-arith -Wsign-promo -Wstack-usage=8192 -Wstrict-aliasing\
 -Wstrict-null-sentinel -Wtype-limits -Wwrite-strings -Werror=vla -D_DEBUG -D_EJUDGE_CLIENT_SIDE
 
-all: OneginRes.exe
+OBJECTS = $(patsubst %.cpp, %.o, $(wildcard *.cpp))
+HEADERS = PrintRes.h ReadData.h Sort.h Free.h
+APPLICATION = OneginRes.exe
 
-OneginRes.exe: Main.o ReadData.o PrintRes.o Sort.o Free.o
-	$(CC) Main.o ReadData.o PrintRes.o Sort.o Free.o -o OneginRes.exe
+all: $(APPLICATION)
 
-Main.o: Main.cpp PrintRes.h ReadData.h Sort.h Free.h 
-	$(CC) $(CFLAGS) Main.cpp
-	
-ReadData.o: ReadData.cpp ReadData.h 
-	$(CC) $(CFLAGS) ReadData.cpp
+$(APPLICATION): $(OBJECTS)
+	$(CC) $(CFLAGS) $^ -o $@
 
-PrintRes.o: PrintRes.cpp PrintRes.h ReadData.h Sort.h 
-	$(CC) $(CFLAGS) PrintRes.cpp
-
-Sort.o: Sort.cpp Sort.h 
-	$(CC) $(CFLAGS) Sort.cpp
-
-Free.o: Free.cpp Free.h 
-	$(CC) $(CFLAGS) Free.cpp	 	
+%.o: %.cpp $(HEADERS)
+	$(CC) $(CFLAGS) $< -c -o $@		 	
 
 .PHONY: all clean
 
