@@ -20,24 +20,6 @@ int number_of_symbs(const char *buf, size_t len, char symb) {
     return nSymbs;
 }
 
-/*char **create_pointer_arr(char *buf, int sz, int nLines) {
-    char **text = (char**) calloc(2*nLines, sizeof(char*));
-    for(int i = 0; i < nLines; i++) {
-        text[i] = NULL;
-    }
-    text[0] = buf;
-    int line = 1;
-    for(int i = 0; i < sz; ++i) {
-        if (buf[i] == '\n') {
-            buf[i] = '\0';
-            text[line] = buf + i + 1;
-            line ++;
-        }
-    }
-
-    return text;
-}*/
-
 
 LinesData *create_pointer_arr(char *buf, int sz, int nLines) {
     LinesData *text = (LinesData*) calloc(2*nLines, sizeof(LinesData));
