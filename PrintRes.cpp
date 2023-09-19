@@ -34,11 +34,13 @@ void print_result(const char *OutputFile, TextData *textdata) {
     print_strings(fresult, textdata->text, textdata->nLines);
     fprintf(fresult, "\n\n");
 
+    fprintf(fresult, "--------------------------------------------------------------------------------------------------\n\n");
     fprintf(fresult, "Обратная сортировка\n\n");
     sort_reverse(textdata->text, textdata->nLines);
     print_strings(fresult, textdata->text, textdata->nLines);
     fprintf(fresult, "\n\n");
 
+    fprintf(fresult, "--------------------------------------------------------------------------------------------------\n\n");
     fprintf(fresult, "Текст в оригинальном виде\n\n");
     print_buf(fresult, textdata->buf, textdata->sz);
 

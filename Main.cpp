@@ -11,7 +11,7 @@ int main() {
 
     TextData textdata = {0, 0, 0, 0};
 
-    read_from_file("OneginEnglish.txt", &textdata);
+    read_from_file("OneginEng.txt", &textdata);
 
     print_result("OneginResult.txt", &textdata);
 

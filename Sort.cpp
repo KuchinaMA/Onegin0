@@ -37,12 +37,12 @@ int comp_lines_straight(const void *line1, const void *line2) {
             i2++;
         }
 
-        if (str1[i1] == str2[i2]) {
+        if (tolower(str1[i1]) == tolower(str2[i2])) {
             i1++;
             i2++;
         }
 
-        else if (str1[i1] < str2[i2]) {
+        else if (tolower(str1[i1]) < tolower(str2[i2])) {
             return -1;
         }
 
@@ -93,12 +93,12 @@ int comp_lines_reverse(const void *line1, const void *line2) {
             i2--;
         }
 
-        if (str1[i1] == str2[i2]) {
+        if (tolower(str1[i1]) == tolower(str2[i2])) {
             i1--;
             i2--;
         }
 
-        else if (str1[i1] < str2[i2]) {
+        else if (tolower(str1[i1]) < tolower(str2[i2])) {
             return -1;
         }
 
