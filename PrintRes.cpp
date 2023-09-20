@@ -19,12 +19,12 @@ void print_buf(FILE *fresult, char *buf, int sz) {
         }                               // moreover, you have fputc in line 21 :)
         else {
             fputc(buf[i], fresult);     
-        }                               // optional, nice function refactoring idea: you are compelled to output buffer symbol by symbol
+        }                               // OPTIONAL, nice function refactoring idea: you are compelled to output buffer symbol by symbol
     }                                   // due to impossibility to replace all '\0' to '\n' at once... but do we need that?
 }                                       // maybe we can use '\0' to our advantage? look, we can easily output first string: fprintf("%s\n", buf);,
                                         // but then we are to find a position where this outputted string ends in buffer...
                                         // do you know any way to do that via fprintf/printf/...? somehow get information about how many symbols
-                                        // fprintf/printf/... wrote?
+                                        // fprintf/printf/... has written?
 
 void print_result(const char *OutputFile, TextData *textdata) {
 
