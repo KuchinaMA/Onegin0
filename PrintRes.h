@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#include "TXLib.h"
+// #include "TXLib.h"
 
 void print_strings(FILE *fresult, LinesData *text, int nLines);
 void print_buf(FILE *fresult, char *buf, int sz);

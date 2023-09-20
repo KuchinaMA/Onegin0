@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#include "TXLib.h"
+// #include "TXLib.h"
 #include "ReadData.h"
 
 void free_all(char *buf, LinesData *text);
