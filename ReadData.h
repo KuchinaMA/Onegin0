@@ -7,6 +7,10 @@
 #include <stdlib.h>
 #include <ctype.h>
 
+<<<<<<< HEAD
+=======
+// #include "TXLib.h" // actually you don't need TXLib.h anywhere in your project because you do not work with russian text :)
+>>>>>>> 4b89daa0e36597c8571e5ad7d94b621c48975039
 
 struct LinesData {
     char *pointer;
