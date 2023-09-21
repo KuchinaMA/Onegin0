@@ -4,32 +4,50 @@
 #include "ReadData.h"
 
 int size_of_file(FILE *fp) {
+
+    assert(fp != NULL);
+
     fseek(fp, 0, SEEK_END);
-    int sz = ftell(fp);
+    int sz = (int)ftell(fp);
     fseek(fp, 0, SEEK_SET);
+
     return sz;
 }
 
+
 int number_of_symbs(const char *buf, size_t len, char symb) {
+
+    assert(buf != NULL);
+
     int nSymbs = 0;
+
     for (size_t i = 0; i < len; ++i) {
+
         if (buf[i] == symb) {
             nSymbs ++;
         }
     }
+
     return nSymbs;
 }
 
 
-LinesData *create_pointer_arr(char *buf, int sz, int nLines) {
+LinesData *create_pointer_arr(char *buf, size_t sz, int nLines) {
+
+    assert(buf != NULL);
+    assert(nLines >= 0);
+
     LinesData *text = (LinesData*) calloc(2*nLines, sizeof(LinesData));
+
     for(int i = 0; i < nLines; i++) {
         (text[i]).pointer = NULL;
         (text[i]).len = 0;
     }
+
     (text[0]).pointer = buf;
     int line = 1;
-    for(int i = 0; i < sz; ++i) {
+
+    for(size_t i = 0; i < sz; ++i) {
         if (buf[i] == '\n') {
             buf[i] = '\0';
             (text[line]).pointer = buf + i + 1;
@@ -37,29 +55,34 @@ LinesData *create_pointer_arr(char *buf, int sz, int nLines) {
             line ++;
         }
     }
-
+    //printf("%d", line);
     return text;
 }
 
-char *read_data_from_file(FILE *fp, int sz) {
+
+char *read_data_from_file(FILE *fp, size_t sz) {
 
     if (fp == NULL) {
         printf("There's no file with text of poem\n");
     }
 
     char *buf = (char*) calloc(sz + 1, sizeof(char));
+    assert(buf != 0);
 
-    int nRead = fread(buf, sizeof(char), sz, fp);
+    size_t nRead = fread(buf, sizeof(char), sz, fp);
     assert (nRead <= sz);
 
-    buf[nRead - 1] = '\n';
+    //printf("%d %d\n", nRead, sz);
+
+    buf[nRead] = '\n';
 
     return buf;
 }
 
+
 void read_from_file(const char *InputFile, TextData *textdata) {
 
-    FILE *finput = fopen(InputFile , "r" );
+    FILE *finput = fopen(InputFile , "rb" );
 
     textdata->sz = size_of_file(finput);
     textdata->buf = read_data_from_file(finput, textdata->sz);

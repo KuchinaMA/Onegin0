@@ -6,9 +6,6 @@
 
 #include "Sort.h"
 
-void sort_straight(LinesData *line, int nLines) {
-    qsort(line, nLines, sizeof(LinesData), comp_lines_straight);
-}
 
 int comp_lines_straight(const void *line1, const void *line2) {
 
@@ -49,22 +46,16 @@ int comp_lines_straight(const void *line1, const void *line2) {
         else {
             return 1;
         }
-        if (i1 > end_1 || i2 > end_2) {
-            if (i1 > end_1 && i2 > end_2) {
-                return 0;
-            }
-            else if (i1 > end_1) {
-                return -1;
-            }
-            else {
-                return 1;
-            }
+        if (i1 > end_1 && i2 > end_2) {
+            return 0;
+        }
+        else if (i1 > end_1 && i2 <= end_2) {
+            return -1;
+        }
+        else if (i1 <= end_1 && i2 > end_2){
+            return 1;
         }
     }
-}
-
-void sort_reverse(LinesData *line, int nLines) {
-    qsort(line, nLines, sizeof(LinesData), comp_lines_reverse);
 }
 
 
@@ -105,45 +96,56 @@ int comp_lines_reverse(const void *line1, const void *line2) {
         else {
             return 1;
         }
-        if (i1 < 0 || i2 < 0) {
-            if (i1 < 0 && i2 < 0) {
-                return 0;
-            }
-            else if (i1 < 0) {
-                return -1;
-            }
-            else {
-                return 1;
-            }
+        if (i1 < 0 && i2 < 0) {
+            return 0;
         }
-
+        else if (i1 < 0 && i2 >= 0) {
+            return -1;
+        }
+        else if (i2 < 0 && i1 >= 0) {
+            return 1;
+        }
     }
 }
 
-void quick_sort(char **data, int begining, int ending) {
+void quick_sort(LinesData *data, int begining, int ending, int (*comparator) (const void* line1, const void* line2)) {
+
+    assert(data != 0);
+    assert(begining >= 0);
+
     if (begining < ending) {
-        int middle = partition(data, begining, ending);
-        quick_sort(data, begining, middle);
-        quick_sort(data, middle + 1, ending);
+
+        int middle = partition(data, begining, ending, comparator);
+        quick_sort(data, begining, middle, comparator);
+        quick_sort(data, middle + 1, ending, comparator);
     }
 }
 
 
-int partition(char **data, int begining, int ending) {
+int partition(LinesData *data, int begining, int ending, int (*comparator) (const void* line1, const void* line2)) {
+
+    assert(data != 0);
+    assert(begining >= 0);
+
     int left = begining;
     int right = ending;
-    int middle = (left + right) / 2;
-    char *midElem = data[middle];
+    int middle = left + (right - left) / 2;
+    LinesData midElem = data[middle];
+
     while (left <= right) {
-        while (comp_lines_straight(&midElem, &data[left]) > 0) {
+
+        while (comparator(&midElem, &data[left]) > 0) {
             left++;
         }
-        while (comp_lines_straight(&data[right], &midElem) > 0) {
+
+        while (comparator(&data[right], &midElem) > 0) {
             right--;
         }
+
         if (left >= right) {
             break;
         }
+
         swap_elems(data, left, right);
         left++;
         right--;
@@ -152,8 +154,13 @@ int partition(char **data, int begining, int ending) {
 }
 
 
-void swap_elems(char *data[], int a, int b) {
-    char *tmp = data[a];
+void swap_elems(LinesData *data, int a, int b) {
+
+    assert(data != 0);
+    assert(a >= 0);
+    assert(b >= 0);
+
+    LinesData tmp = data[a];
     data[a] = data[b];
     data[b] = tmp;
 }

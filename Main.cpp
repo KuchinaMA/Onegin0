@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-#include "TXLib.h"
 #include "ReadData.h"
 #include "PrintRes.h"
 #include "Sort.h"

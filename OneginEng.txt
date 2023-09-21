@@ -34,7 +34,7 @@
      at first Madame gave him tuition,
      from her Monsieur took on the child.
      He was sweet-natured, and yet wild.
-     Monsieur l'Abbé, the mediocre,
+     Monsieur l'Abbe, the mediocre,
      reluctant to exhaust the boy,
      treated his lessons as a ploy.
      No moralizing from this joker;
@@ -43,7 +43,7 @@
      But when the hour of youthful passion
      struck for Evgeny, with its play
      of hope and gloom, romantic-fashion,
-     it was goodbye, Monsieur l'Abbé.
+     it was goodbye, Monsieur l'Abbe.
      Eugene was free, and as a dresser
      made London's dandy his professor.
      His hair was fashionably curled,
@@ -155,7 +155,7 @@
      Some days he's still in bed, and drowses,
      when little notes come on a tray.
      What? Invitations? Yes, three houses
-     have each asked him to a soirée:
+     have each asked him to a soiree:
      a ball here, there a children's party;
      where shall he go, my rogue, my hearty?
      Which one comes first? It's just the same
@@ -164,25 +164,25 @@
      complete with broad-brimmed bolivar,
      Eugene attends the boulevard,
      and there at large he goes patrolling
-     until Bréguet's unsleeping chime
+     until Breguet's unsleeping chime
      advises him of dinner-time.
      He mounts the sledge, with daylight fading:
      ``Make way, make way,'' goes up the shout;
      his collar in its beaver braiding
      glitters with hoar-frost all about.
      He's flown to Talon's,4 calculating
-     that there his friend Kavérin's5 waiting;
+     that there his friend Kaverin's5 waiting;
      he arrives -- the cork goes flying up,
      wine of the Comet6 fills the cup;
      before him roast beef, red and gory,
      and truffles, which have ever been
      youth's choice, the flower of French cuisine:
-     and pâté, Strasbourg's deathless glory,
+     and pate, Strasbourg's deathless glory,
      sits with Limburg's vivacious cheese
      and ananas, the gold of trees.
      More wine, he calls, to drench the flaming
      fire of the cutlets' scalding fat,
-     when Bréguet's chime is heard proclaiming
+     when Breguet's chime is heard proclaiming
      the new ballet he should be at.
      He's off -- this ruthless legislator
      for the footlights, this fickle traitor
@@ -192,18 +192,18 @@
      who'll clap an entrechat, or scoff
      at Cleopatra, hiss her off,
      boo Phaedra out as paralytic,
-     encore Moëna,7 -- and rejoice
+     encore Moena,7 -- and rejoice
      to know the audience hears his voice.
      Enchanted land! There like a lampion
      that king of the satiric scene,
      Fonvizin8 sparkled, freedom's champion,
-     and the derivative Knyazhnín:8
+     and the derivative Knyazhnin:8
      there сzerov8 shared the unwilling
      tribute of tears, applause's shrilling,
-     with young Semyónova,9 and there
-     our friend Katénin8 brought to bear
+     with young Semyonova,9 and there
+     our friend Katenin8 brought to bear
      once more Corneille's majestic story;
-     there caustic Shakhovskóy8 came in
+     there caustic Shakhovskoy8 came in
      with comedies of swarm and din;
      there Didelot10 crowned himself with glory:
      there, where the coulisse entrance went,
@@ -228,7 +228,7 @@
      and up the rustling curtain crawls.
      Then with a half-ethereal splendour,
      bound where the magic bow will send her,
-     Istómina,11 thronged all around
+     Istomina,11 thronged all around
      by Naiads, one foot on the ground,
      twirls the other slowly as she pleases,
      then suddenly she's off, and there
@@ -326,7 +326,7 @@
      Onegin has outrun us all.
      Along the fronts of darkened houses,
      along the street where slumber drowses,
-     twin lamps of serried coupés throw
+     twin lamps of serried coupes throw
      a cheerful glimmer on the snow
      and radiate a rainbow: blazing
      with lampions studded all about
@@ -505,7 +505,7 @@
      You too, prime beauties in your flower
      who late at night are whirled away
      by drozhkies jaunting at full power
-     over the Petersburg pavé --
+     over the Petersburg pave --
      he ended even your employment;
      and in retreat from all enjoyment
      locked himself up inside his den
@@ -768,7 +768,7 @@
      a park, enormous and neglected,
      spread out its shadow all around --
      the pensive Dryads' hiding-ground.
-     The château was of a construction
+     The chateau was of a construction
      befitting such a noble pile:
      it stood, defiant of destruction
      in sensible old-fashioned style.
@@ -778,7 +778,7 @@
      and stoves with tiles of various hue.
      All this has now gone out of fashion,
      I don't know why, but for my friend
-     interior décor in the end
+     interior decor in the end
      excited not a hint of passion:
      a modish taste, a dowdy touch --
      both set him yawning just as much.
@@ -801,7 +801,7 @@
      it led him, in these early sessions,
      to institute a new regime.
      A thinker in a desert mission,
-     he changed the corvée of tradition
+     he changed the corvee of tradition
      into a small quit-rent -- and got
      his serfs rejoicing at their lot.
      But, in a fearful huff, his thrifty
@@ -829,7 +829,7 @@
      and, in the district, this persona
      drew scrutiny no less complete --
      Vladimir Lensky, whose creator
-     was Göttingen, his alma mater,
+     was Gottingen, his alma mater,
      good-looking, in the flower of age,
      a poet, and a Kantian sage.
      He'd brought back all the fruits of learning
@@ -844,7 +844,7 @@
      at a friend's word, a girl's caress.
      In heart's affairs, a sweet beginner,
      he fed on hope's deceptive dinner;
-     the world's éclat, its thunder-roll,
+     the world's eclat, its thunder-roll,
      still captivated his young soul.
      He sweetened up with fancy's icing
      the uncertainties within his heart;
@@ -1259,7 +1259,7 @@
      ``Poor Yorick,'' said he, broken-hearted:
      ``he dandled me as a small boy.
      How many times I made a toy
-     of his Ochákov7 decoration!
+     of his Ochakov7 decoration!
      He destined Olga's hand for me,
      kept asking: "shall I live to see"...''
      so, full of heart-felt tribulation,
@@ -1353,7 +1353,7 @@
      The fields are dark, since evening came.
      Drive on, Andryushka! quicker, quicker!
      the country's pretty stupid here!
-     oh, à propos: Larin's a dear
+     oh, a propos: Larin's a dear
      simple old lady; but the liquor --
      I'm much afraid that bilberry wine
      won't benefit these guts of mine.''
@@ -1700,7 +1700,7 @@
      too weak to change, I'm staying vicious,
      I still find Gallicism delicious
      as youthful sinning, or the strains
-     of Bogdanóvich's11 refrains.
+     of Bogdanovich's11 refrains.
      But that's enough. My beauty's letter
      must now employ my pen; somehow
      I gave my word, alas, though now
@@ -1733,7 +1733,7 @@
      It baffles me. But I'll repeat
      here a weak version, incomplete,
      pale transcript of a vivid master,
-     or Freischütz as it might be played
+     or Freischutz as it might be played
      by nervous hands of a schoolmaid:
      ``I write to you -- no more confession
      is needed, nothing's left to tell.
@@ -1908,7 +1908,7 @@
      down to the garden, and her eyes
      daren't look behind her; fairly dashing --
      beds, bridges, lawn, she never stops,
-     the allée to the lake, the copse;
+     the allee to the lake, the copse;
      breaking the lilac bushes, smashing
      parterres, she runs to rivulet's brink,
      to gasp, and on a bench to sink.
@@ -1961,7 +1961,7 @@
      But finally she heaved a yearning
      sigh, and stood up, began to pace;
      she walked, but just as she was turning
-     into the allée, face to face,
+     into the allee, face to face,
      she found Evgeny, eyes a-glitter,
      still as a shadow, grim and bitter;
      seared as by fire, she stopped. Today
@@ -2275,8 +2275,8 @@
      are entered here, in friendship's gage,
      shortened, or lengthened off the page.
      On the first sheet you'll find a question:
-     ``Qu'écrirez-vous sur ces tablettes?''
-     and, under, ``toute à vous Annette'';
+     ``Qu'ecrirez-vous sur ces tablettes?''
+     and, under, ``toute a vous Annette'';
      then, on the last page, the suggestion:
      ``who loves you more than I, let's see
      him prove it, writing after me.''
@@ -2316,7 +2316,7 @@
      all was material for transcribing:
      with lively and pellucid look,
      his elegies flow like a brook.
-     So you, inspired Yazýkov,4 sobbing
+     So you, inspired Yazykov,4 sobbing
      with bursts of passion from the heart,
      sing God knows whom, compose with art
      a suite of elegies that, throbbing,
@@ -2491,7 +2491,7 @@
      Evgeny waits: and here comes driving,
      with three roan horses in a line
      Vladimir Lensky. Quick, let's dine!
-     From widow Clicquot and from Moët,
+     From widow Clicquot and from Moet,
      the draught whose blessings are agreed,
      in frosted bottle, for the poet
      is brought to table at full speed.
@@ -2509,7 +2509,7 @@
      perfidious blow to my inside,
      and now it's Bordeaux the Judicious
      that I prefer to Champagne's tide;
-     to Aÿ's vintage in the sequel
+     to Ay's vintage in the sequel
      I find myself no longer equal;
      for, mistress-like, it's brilliant, vain,
      lively, capricious, and inane...
@@ -2607,7 +2607,7 @@
      breaks a new passage with his sleigh;
      his nag has smelt the snow, and planted
      a shambling hoof along the way;
-     a saucy kibítka is slicing
+     a saucy kibitka is slicing
      its furrow through the powdery icing;
      the driver sits and cuts a dash
      in sheepskin coat with scarlet sash.
@@ -2894,7 +2894,7 @@
      by Scott, by Seneca, or Byron,
      even by Ladies' Fashion Post,
      no one was ever so engrossed:
-     Martin Zadéka was the siren,
+     Martin Zadeka was the siren,
      dean of Chaldea's learned team,
      arch-commentator of the dream.
      This work of the profoundest learning
@@ -2907,7 +2907,7 @@
      and took two Petriads in calf,
      a grammar, a digest of fable,
      and volume three of Marmontel.
-     Since then Martin Zadéka's spell
+     Since then Martin Zadeka's spell
      bewitches Tanya... he is able
      to comfort her in all her woes,
      and every night shares her repose.
@@ -2920,7 +2920,7 @@
      bear, blackness, blizzard, bridge and crow,
      fir, forest, hedgehog, raven, snow
      etcetera. But her trepidation
-     Martin Zadéka fails to mend;
+     Martin Zadeka fails to mend;
      the horrid nightmare must portend
      a hideous deal of tribulation.
      For several days she peaked and pined
@@ -2931,8 +2931,8 @@
      the festal name day has begun.
      Since dawn, whole families have been driving
      towards the Larins' and arriving
-     in sledded coaches and coupés,
-     in britzkas, kibítkas and sleighs.
+     in sledded coaches and coupes,
+     in britzkas, kibitkas and sleighs.
      The hall is full of noise and hustle,
      in the salon new faces meet,
      and kisses smack as young girls greet;
@@ -2940,17 +2940,17 @@
      the threshold's thronged, wet-nurses call,
      guests bow, feet scrape, and children squall.
      Here with his wife, that bulging charmer,
-     fat Pústyakov has driven in;
-     Gvozdín, exemplary farmer,
+     fat Pustyakov has driven in;
+     Gvozdin, exemplary farmer,
      whose serfs are miserably thin;
-     and the Skotínins, grizzled sages,
+     and the Skotinins, grizzled sages,
      with broods of children of all ages,
      from thirty down to two; and stop,
-     here's Petushkóv, the local fop;
-     and look, my cousin's come, Buyánov,
+     here's Petushkov, the local fop;
+     and look, my cousin's come, Buyanov,
      in a peaked cap, all dust and fluff, --
      you'll recognize him soon enough, --
-     and counsellor (retired) Flyánov,
+     and counsellor (retired) Flyanov,
      that rogue, backbiter, pantaloon,
      bribe-taker, glutton and buffoon.
      Here, in his red peruke and glasses,
@@ -2960,7 +2960,7 @@
      inside a pocket Triquet nurses,
      addressed to Tanya, certain verses
      set to well-known children's glee:
-     ``réveillez-vous, belle endormie.''
+     ``reveillez-vous, belle endormie.''
      He found them in some old collection,
      printed among outmoded airs;
      Triquet, ingenious poet, dares
@@ -3076,7 +3076,7 @@
      now, by green tablecloths awaited,
      the eager players are enrolled --
      Boston and ombre for the old,
-     and whist, that's now so keenly fêted --
+     and whist, that's now so keenly feted --
      pursuits of a monotonous breed
      begot by boredom out of greed.
      By now whist's heroes have completed
@@ -3087,7 +3087,7 @@
      and tea and supper; there's an inner
      clock in the country rings the hour;
      no fuss; our belly has the power
-     of any Bréguet: and in passing
+     of any Breguet: and in passing
      I'll just remark, my verses talk
      as much of banquets and the cork
      and eatables beyond all classing
@@ -3103,7 +3103,7 @@
      have clearly got the upper hand
      of Eugene, cold as all creation,
      of plains where boredom reigns complete,
-     or of Istómina, my sweet,
+     or of Istomina, my sweet,
      and all our modish education;
      but your vile Helen's not my star --
      no, Tanya's more endearing far.
@@ -3126,13 +3126,13 @@
      when, from behind the doorway, hidden
      bassoons and flutes begin to trip.
      Elated by the music's blaring,
-     Petushkóv, local Paris, tearing,
+     Petushkov, local Paris, tearing,
      his tea with rum quite left behind,
      approaches Olga; Lensky's signed
      Tatyana on; Miss Kharlikova,
      that nubile maid of riper age,
      is seized by Tambov's poet-sage;
-     Buyánov whirls off Pustyakova;
+     Buyanov whirls off Pustyakova;
      they all have swarmed into the hall,
      and in full brilliance shines the ball.
      Right at the outset of my story
@@ -3177,9 +3177,9 @@
      as fresh as ever, for its graces
      are here untouched by fashion's reign,
      our modern Russia's plague and bane.
-     < Petushkóv's nails and spurs are sounding
+     < Petushkov's nails and spurs are sounding
      (that half-pay archivist); and bounding
-     Buyánov's heels have split the wood
+     Buyanov's heels have split the wood
      and wrecked the flooring-boards for good;
      there's crashing, rumbling, pounding, trotting,
      the deeper in the wood, the more
@@ -3187,7 +3187,7 @@
      they're plunging, whirling, all but squatting.
      Ah, gently, gently, easy goes --
      your heels will squash the ladies' toes! >
-     Buyánov, my vivacious cousin,
+     Buyanov, my vivacious cousin,
      leads Olga and Tatyana on
      to Eugene; nineteen to the dozen,
      Eugene takes Olga, and is gone;
@@ -3230,10 +3230,10 @@
      a place for rest. Eugene alone
      has driven off, to find his own.
      All sleep: from the saloon a roaring
-     proclaims where ponderous Pústyakov
+     proclaims where ponderous Pustyakov
      beside his heavier half is snoring.
-     Gvozdín, Buyánov, Petushkóv
-     and Flyánov, amply lubricated,
+     Gvozdin, Buyanov, Petushkov
+     and Flyanov, amply lubricated,
      on dining-chairs are all prostrated;
      the floor serves Triquet for his nap,
      in flannel, and an old fur cap.
@@ -3259,11 +3259,11 @@
      it's not in him to bring me bliss.''
      But onward, onward with my story!
      A new acquaintance claims our quill.
-     Five versts or so from Krasnogórie,
+     Five versts or so from Krasnogorie,
      Lensky's estate, there lives and still
      thrives to this moment, in a station
      of philosophic isolation,
-     Zarétsky, sometime king of brawls
+     Zaretsky, sometime king of brawls
      and hetman of the gambling-halls,
      arch-rake, pothouse tribune-persona,
      but now grown plain and kind in stead,
@@ -3283,7 +3283,7 @@
      and taken by the French -- some prize! --
      resigned himself to prison's ties,
      like Regulus, that god of honour,
-     in order daily, chez Véry,1
+     in order daily, chez Very,1
      to drain, on credit, bottles three.
      Time was, he'd been the wittiest ever,
      so brilliantly he'd hoax the fools,
@@ -3888,7 +3888,7 @@
      in loaded carriages, migrate,
      leave far behind that city-gate.
      Forsake, indulgent reader -- driven
-     in your calèche of foreign cast --
+     in your caleche of foreign cast --
      the untiring city, where you've given
      to feasts and fun this winter past;
      and though my muse may be capricious,
@@ -4154,9 +4154,9 @@
      And then she broods and mopes for good,
      and trails alone around the wood.''
      ``She's not in love?'' ``There's no one, ever.
-     Buyánov tried -- got flea in ear.
-     And Ivan Petushkóv; no, never.
-     Pikhtín, of the Hussars, was here;
+     Buyanov tried -- got flea in ear.
+     And Ivan Petushkov; no, never.
+     Pikhtin, of the Hussars, was here;
      he found Tatyana so attractive,
      bestirred himself, was devilish active!
      I thought, she'll go this time, perhaps;
@@ -4174,7 +4174,7 @@
      Then Tanya hears of the decision.
      To face society's derision
      with the unmistakeable sideview
-     of a provincial ingénue,
+     of a provincial ingenue,
      to expose to Moscow fops and Circes
      her out-of-fashion turns of phrase,
      parade before their mocking gaze
@@ -4409,11 +4409,11 @@
      they all still keep their old impress:
      still made of tulle, the self-same bonnet
      adorns Aunt Helen, the princess;
-     still powdered is Lukérya Lvovna,
-     a liar still, Lyubóv Petrovna,
-     Iván Petróvich still is dumb,
-     Semyón Petróvich, mean and glum,
-     and then old cousin Pelagéya
+     still powdered is Lukerya Lvovna,
+     a liar still, Lyubov Petrovna,
+     Ivan Petrovich still is dumb,
+     Semyon Petrovich, mean and glum,
+     and then old cousin Pelageya
      still has Monsieur Finemouche for friend,
      same Pom, same husband to the end;
      he's at the club, a real stayer,
@@ -4469,7 +4469,7 @@
      that she's ``ideal'', begins preparing
      an elegy to her address,
      propped in the door among the press.
-     Once Vyázemsky,4 who chanced to find her
+     Once Vyazemsky,4 who chanced to find her
      at some dull aunt's, sat down and knew
      how to engage in talk that drew
      her soul's attention; just behind her
@@ -4530,7 +4530,7 @@
      where flows a little glittering brook,
      to her flower-garden, to her novels, --
      to where he came to her that time
-     in twilight of allées of lime.
+     in twilight of allees of lime.
      But while she roams in thought, not caring
      for dance, and din, and worldly ways,
      a general of majestic bearing
@@ -4560,7 +4560,7 @@
      I've paid my due to classic art:
      it may be late, but it's a start.
      Days when I came to flower serenely
-     in Lycée gardens long ago,
+     in Lycee gardens long ago,
      and read my Apuleius keenly,
      but spared no glance for Cicero;
      yes, in that spring-time, in low-lying
@@ -4575,7 +4575,7 @@
      the heart and all its fragile dreams.
      And with a smile the world caressed us:
      what wings our first successes gave!
-     aged Derzhávin1 saw and blessed us
+     aged Derzhavin1 saw and blessed us
      as he descended to the grave.
      The arbitrary rules of passion
      were all the law that I would use;
@@ -4780,7 +4780,7 @@
      stays fixed and focused on a vision
      which has recalled, without precision,
      forgotten features. ``Can you say,
-     prince, who in that dark-red béret,
+     prince, who in that dark-red beret,
      just there, is talking to the Spanish
      ambassador?'' In some surprise
      the prince looks at him, and replies:
@@ -4835,7 +4835,7 @@
      now sweet, his slumbers are distraught.
      He wakes -- and who is this who writes him?
      Prince N. respectfully invites him
-     to a soirée. ``My God! to her!...
+     to a soiree. ``My God! to her!...
      I'll go, I'll go!'' -- and in a stir
      a swift, polite reply is written.
      What ails him? he's in some strange daze!
@@ -4858,7 +4858,7 @@
      and obstinate his look. But she
      sits imperturbable, and free.
      Her husband enters, thus concluding
-     their unattractive tête-à-tête;
+     their unattractive tete-a-tete;
      he and Onegin start alluding
      to pranks and jokes of earlier date.
      They laugh. The guests begin arriving.
@@ -5054,7 +5054,7 @@
      No answer comes. Another letter
      he sends, a second, then a third.
      No answer comes. He goes, for better
-     or worse, to a soirée. Unheard
+     or worse, to a soiree. Unheard
      she appears before him, grim and frozen.
      No look, no word for him: she's chosen
      to encase herself inside a layer
@@ -5082,7 +5082,7 @@
      Once more he turned to books, unchoosing,
      devouring Gibbon and Rousseau,
      Manzoni and Chamfort,12 perusing
-     Madame de Staël, Bichat,13 Tissot,14
+     Madame de Stael, Bichat,13 Tissot,14
      Herder, and even at times a Russian --
      nothing was barred beyond discussion --
      he read of course the sceptic Bayle15
@@ -5187,7 +5187,7 @@
      ``Enough, stand up. It's now for me
      to give you honest explanation.
      Onegin, d'you recall the day
-     when in the park, in the allée
+     when in the park, in the allee
      where fate had fixed our confrontation,
      humbly I heard your lesson out?
      Today it's turn and turn about.

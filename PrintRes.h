@@ -7,10 +7,9 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#include "TXLib.h"
 
 void print_strings(FILE *fresult, LinesData *text, int nLines);
-void print_buf(FILE *fresult, char *buf, int sz);
+void print_buf(FILE *fresult, char *buf, size_t sz);
 void print_result(const char *OutputFile, TextData *textdata);
 
 #endif // PRINTRES_H_INCLUDED

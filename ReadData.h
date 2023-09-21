@@ -7,7 +7,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#include "TXLib.h"
 
 struct LinesData {
     char *pointer;
@@ -15,7 +14,7 @@ struct LinesData {
 };
 
 struct TextData {
-    int sz;
+    size_t sz;
     char *buf;
     int nLines;
     LinesData *text;
@@ -23,8 +22,8 @@ struct TextData {
 
 int size_of_file(FILE *fp);
 int number_of_symbs(const char *str, size_t len, char symb);
-LinesData *create_pointer_arr(char *buf, int sz, int nLines);
-char *read_data_from_file(FILE *fp, int sz);
+LinesData *create_pointer_arr(char *buf, size_t sz, int nLines);
+char *read_data_from_file(FILE *fp, size_t sz);
 void read_from_file(const char *InputFile,TextData *textdata);
 
 
